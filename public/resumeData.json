@@ -1,0 +1,90 @@
+{
+  "main": {
+    "name": "Afnan Shaikh",
+    "occupation": "Jr Developer",
+    "description": "Full Stack Developer",
+    "image": "",
+    "bio": "My name is Afnan, I'm a Full Stack Developer. Currently I'm finishing off a coding bootcamp and searching for full time jobs ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "afnanshaikh@gmail.com",
+    "phone": "+16132224435",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Ottawa",
+      "province": "ON",
+      "postal code": "ABC 123"
+    },
+    
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/afnan-shaikh-1b29521b3/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/TheShaikh95",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Bringing a creative Visionary perosnality into the field of Web development.",
+    "education": [
+      {
+        "school": "Carleton University",
+        "degree": "B.A. Psych",
+        "graduated": "January 2018",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Synergy Security",
+        "title": "Security Officer",
+        "years": "April 2020 - Present",
+        "description": "Responsible for keeping property safe"
+      },
+      {
+        "company": "Sunglass Hut",
+        "title": "Sales Associate",
+        "years": "Nov 2019 - April 2020",
+        "description": "Selling luxury products"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Afnan gave his 100% and met all client needs.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Afnan must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
